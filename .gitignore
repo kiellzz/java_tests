@@ -1,0 +1,12 @@
+# Ignorar o zip do Maven e a pasta extraída
+maven.zip
+apache-maven-*/
+
+# Ignorar os arquivos de build do Java/Maven
+target/
+*.class
+
+# Ignorar configurações de IDEs
+.idea/
+.vscode/
+*.iml
