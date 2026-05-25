@@ -1,5 +1,2 @@
-# Tratar tudo dentro de src como código-fonte legítimo do projeto
-demo/src/** linguist-vendored=false
-
-# Ignorar o arquivo de configuração XML nas estatísticas
+*.java linguist-detectable=true
 demo/pom.xml linguist-documentation
