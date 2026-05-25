@@ -142,7 +142,3 @@ A atividade consiste na implementação e validação de regras de negócio em c
 ## 🧼 Organização do Repositório
 
 O repositório conta com um arquivo `.gitignore` otimizado e metadados configurados para garantir que artefatos de build local (`target/`), caches temporários e arquivos portáteis (`maven.zip`) sejam completamente ignorados pelo rastreamento do Git. Isso mantém o foco estritamente na qualidade do código-fonte e na organização acadêmica.
-
-```
-
-```
