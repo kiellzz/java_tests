@@ -10,3 +10,6 @@ target/
 .idea/
 .vscode/
 *.iml
+
+# Forçar o GitHub a ignorar o pom.xml no cálculo de linguagens
+pom.xml linguist-documentation
